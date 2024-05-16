@@ -6,7 +6,7 @@ body
     margin: 15px;
     padding: 0;
     text-align: center;
-    background-image: url('../imagem/pag_principal.jpg'); /* Caminho relativo para a pasta de imagens */
+    background-image: url('../imagem/teste_foto.jpg'); /* Caminho relativo para a pasta de imagens */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
