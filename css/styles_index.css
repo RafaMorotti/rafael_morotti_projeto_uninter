@@ -7,8 +7,6 @@ body /* formatar o corpo da página */
     text-align:  center; /* o texto do corpo da página centralizado*/
     background-image: url('folder/pag_principal.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
-    background-repeat: no-repeat; /* Evita a repetição da imagem */
-    background-position: center; /* Centraliza a imagem */
 }
 
 
