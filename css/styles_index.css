@@ -7,7 +7,7 @@ body
     padding: 0;
     text-align: center;
     background-image: url('../imagem/pag_principal.jpg'); /* Caminho relativo para a pasta de imagens */
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
