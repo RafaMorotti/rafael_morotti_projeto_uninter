@@ -1,6 +1,6 @@
 body /* formatação do corpo da página */
 {
-    font-size: x-llargearge;
+    font-size: x-large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: ('../imagem/sobre_mim.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
