@@ -6,7 +6,7 @@ body /* formatar o corpo da página */
     margin: 15px;
     padding:0px;
     text-align:  center; /* o texto do corpo da página centralizado*/
-    background-image: '..imagem/parede_full_hd.jpg';
+    background-image: ('..imagem/parede_full_hd.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
     background-position: center; /* Centraliza a imagem */
