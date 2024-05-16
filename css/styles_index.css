@@ -5,7 +5,7 @@ body /* formatar o corpo da página */
     margin: 15px;
     padding:0px;
     text-align:  center; /* o texto do corpo da página centralizado*/
-    background-image: url('https://github.com/RafaMorotti/rafael_morotti_projeto_uninter/blob/79ec884627f0ee2099026d75bc00de647145f4b4/imagem/pag_principal.jpg');
+    background-image: url('imagem/pag_principal.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
 }
 
