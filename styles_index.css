@@ -39,16 +39,14 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     align-items:center; /* difine a posição dos itens dentro do menu verticalmente */
 }
 
-.menu {
-    border-radius: 10px; /* Formatação dos cantos do espaço do menu */
-    border-style: ridge; /* Formatação da borda do menu */
+.menu 
+{
     display: flex; /* Flexível de acordo com o conteúdo */
     flex-direction: flex; /* Formato do menu em linha */
     width: max-content;  /* Define a largura de acordo com o tamanho do texto */
     justify-content: center; /* Alinha os itens dentro do menu */
     padding: 10px;
     margin: 10px;
-
 }
 
 .menu a 
@@ -65,5 +63,6 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
 .menu a:hover /* formatação da mudança de cor ao passar o mouse */
 {
     background-color: #ced4da;
+    color: #000000;
     transition: background-color 0.3s ease;
 }
