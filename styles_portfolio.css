@@ -37,7 +37,7 @@ h1 /* formataçãod o titulo da página*/
     padding: 5px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
     border-radius: 10px; /* Formatação dos cantos do botões internos do menu */
-    border-style: outset; /* Formatação da borda do menu */
+    border: 3px outset #052975; /* Define a borda com estilo "outset" e cor #052975 */
 }
 
 .menu_button:hover
