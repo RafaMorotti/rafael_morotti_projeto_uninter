@@ -6,7 +6,7 @@ body /* formatação do corpo da página */
     bottom: 0; /* Posiciona o elemento na parte inferior */
     left: 0; /* Alinha o elemento à esquerda */
     background-image: url('teste_contato_2.jpg');
-    background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
+    background-size: auto; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
     background-position: center-bottom; /* Centraliza a imagem */
 }
