@@ -43,6 +43,6 @@ h1 /* formataçãod o titulo da página*/
 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 35px;
-    color:black; /* formatação da fonte do botão ao passar o mouse por cima */
+    color: rgb(131, 30, 30) /* formatação da fonte do botão ao passar o mouse por cima */
 }
 
