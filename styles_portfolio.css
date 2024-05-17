@@ -1,0 +1,48 @@
+body /* formatar o corpo da página */
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:large;
+    color: #756416;
+    margin: 15px;
+    padding:0px;
+    text-align:  center; /* o texto do corpo da página centralizado*/
+    background-image: ('imagem/portfolio.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
+    background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
+    background-position: center; /* Centraliza a imagem */
+}
+
+h1 /* formataçãod o titulo da página*/ 
+{
+    font-size: 70px;
+    font-family: monospace;
+}
+
+.link /* formatação dos links da página */
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-transform: capitalize; /* formata para deixar as primeiras letras maiusculas */
+}
+
+
+.menu_button 
+{
+    display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda*/
+    text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
+    font-family: comic sans-serif; /* formata o estilo da fonte dentro do botão*/
+    color: #052975; /* cor da fonte */
+    font-size: 30px; /* tamanho da fonte */
+    padding: 5px 30px; /* formatação do espaçamento interno */
+    margin: 10px; /* Margem entre os botões */
+    border-radius: 10px; /* Formatação dos cantos do botões internos do menu */
+    background-color: #47ca6e; /* cor de fundo do botão */
+}
+
+.menu_button:hover
+{
+    background-color: #47ca6e; /* formatação do botão ao passar o mouse por cima */
+    color:black; /* formatação da fonte do botão ao passar o mouse por cima */
+    transition: background-color 0.3s ease;
+}
+

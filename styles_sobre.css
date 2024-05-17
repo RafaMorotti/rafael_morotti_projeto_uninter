@@ -1,0 +1,9 @@
+body /* formatação do corpo da página */
+{
+    font-size: x-llargearge;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: ('..imagem/sobre_mim.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
+    background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
+    background-position: center; /* Centraliza a imagem */
+}
