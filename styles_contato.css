@@ -8,5 +8,5 @@ body /* formatação do corpo da página */
     background-image: url('teste_contato_2.jpg');
     background-size: auto; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
-    background-position: center-bottom; /* Centraliza a imagem */
+    background-position: right top; /* Centraliza a imagem */
 }
