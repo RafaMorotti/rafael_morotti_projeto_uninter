@@ -6,7 +6,7 @@ body /* formatar o corpo da página */
     margin: 15px;
     padding:0px;
     text-align:  right; /* o texto do corpo da página centralizado*/
-    background-image: url('portfolio.jpg');
+    background-image: url('mesa_trabalho.jpg');
     background-size: auto; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
     background-position: center; /* Centraliza a imagem */
