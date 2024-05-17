@@ -37,11 +37,12 @@ h1 /* formataçãod o titulo da página*/
     padding: 5px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
     border-radius: 10px; /* Formatação dos cantos do botões internos do menu */
-    border: 3px double #404e70; /* Define a borda com estilo "outset" e cor #052975 */
+
 }
 
 .menu_button:hover
 {
+    border: 3px double #404e70; /* Define a borda com estilo "outset" e cor #052975 */
     color:black; /* formatação da fonte do botão ao passar o mouse por cima */
     transition: background-color 0.3s ease;
 }
