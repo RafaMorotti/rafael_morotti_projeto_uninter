@@ -5,7 +5,7 @@ body /* formatar o corpo da página */
     color: #000000;
     margin: 15px;
     padding:0px;
-    text-align:  left; /* o texto do corpo da página centralizado*/
+    text-align:  right; /* o texto do corpo da página centralizado*/
     background-image: url('portfolio.jpg');
     background-size: auto; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
@@ -22,7 +22,7 @@ h1 /* formataçãod o titulo da página*/
 .link /* formatação dos links da página */
 {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     text-transform: capitalize; /* formata para deixar as primeiras letras maiusculas */
 }
 
