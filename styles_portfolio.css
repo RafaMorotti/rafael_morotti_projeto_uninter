@@ -44,6 +44,5 @@ h1 /* formataçãod o titulo da página*/
 {
     border: 3px outset #404e70; /* Define a borda com estilo "outset" e cor #052975 */
     color:black; /* formatação da fonte do botão ao passar o mouse por cima */
-    transition: background-color 0.3s ease;
 }
 
