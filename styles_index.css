@@ -55,7 +55,7 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
 {
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family:cursive; /* formata o estilo da fonte dentro do botão*/
-    color: #000000;
+    color: #ffffff;
     font-size: 18px;
     padding: 10px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
