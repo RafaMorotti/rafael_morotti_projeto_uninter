@@ -1,9 +1,0 @@
-body /* formatação do corpo da página */
-{
-    font-size: x-large;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('../imagem/contato.jpg');
-    background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
-    background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
-    background-position: center; /* Centraliza a imagem */
-}
