@@ -2,7 +2,7 @@ body /* formatar o corpo da página */
 {
     font-family:Arial, Helvetica, sans-serif;
     font-size:large;
-    color: #756416;
+    color: #000000;
     margin: 15px;
     padding:0px;
     text-align:  left; /* o texto do corpo da página centralizado*/
@@ -16,12 +16,13 @@ h1 /* formataçãod o titulo da página*/
 {
     font-size: 70px;
     font-family: monospace;
+    color:#00000;
 }
 
 .link /* formatação dos links da página */
 {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 35px;
+    font-size: 25px;
     text-transform: capitalize; /* formata para deixar as primeiras letras maiusculas */
 }
 
@@ -36,7 +37,6 @@ h1 /* formataçãod o titulo da página*/
     padding: 5px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
     border-radius: 10px; /* Formatação dos cantos do botões internos do menu */
-    background-color: #47ca6e; /* cor de fundo do botão */
 }
 
 .menu_button:hover
