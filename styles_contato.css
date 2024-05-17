@@ -5,7 +5,7 @@ body /* formatação do corpo da página */
     position: fixed; /* Define a posição fixa para que o elemento permaneça na mesma posição enquanto a página é rolada */
     bottom: 0; /* Posiciona o elemento na parte inferior */
     left: 0; /* Alinha o elemento à esquerda */
-    background-image: url('contato_novo.jpg');
+    background-image: url('teste_contato.jpg');
     background-size: auto; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
     background-position: center; /* Centraliza a imagem */
