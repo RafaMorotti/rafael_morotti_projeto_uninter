@@ -19,6 +19,7 @@ h1 /* formatando o titulo 1 com tamanho, estilo no caso italico, e o tamanho da 
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 70px;
+    color: #000000;
     text-align: center; /* deixa os itens dentro do menu alinhado a esquerda*/
 
 }
@@ -45,7 +46,6 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     flex-direction: flex; /* Formato do menu em linha */
     width: max-content;  /* Define a largura de acordo com o tamanho do texto */
     justify-content: center; /* Alinha os itens dentro do menu */
-    background-color: rgba(83, 78, 78, 0);
     padding: 10px;
     margin: 10px;
 
@@ -60,8 +60,6 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     padding: 10px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
     border-radius: 5px; /* Formatação dos cantos do botões internos do menu */
-    background-color: rgb(107, 110, 110);
-
 }
 
 .menu a:hover /* formatação da mudança de cor ao passar o mouse */
