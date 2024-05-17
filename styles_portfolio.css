@@ -9,7 +9,7 @@ body /* formatar o corpo da página */
     background-image: url('portfolio.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
-    background-position: center; /* Centraliza a imagem */
+    background-position: left; /* Centraliza a imagem */
 }
 
 h1 /* formataçãod o titulo da página*/ 
