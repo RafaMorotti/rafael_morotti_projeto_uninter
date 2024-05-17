@@ -36,8 +36,8 @@ h1 /* formataçãod o titulo da página*/
     font-size: 30px; /* tamanho da fonte */
     padding: 5px 30px; /* formatação do espaçamento interno */
     margin: 10px; /* Margem entre os botões */
-    border-radius: 10px; /* Formatação dos cantos do botões internos do menu */
-    border: 3px outset #052975; /* Define a borda com estilo "outset" e cor #052975 */
+    border-radius: 15px; /* Formatação dos cantos do botões internos do menu */
+    border: 2px outset ##3d3f44; /* Define a borda com estilo "outset" e cor #052975 */
 }
 
 .menu_button:hover
