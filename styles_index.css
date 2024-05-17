@@ -2,7 +2,7 @@ body /* formatar o corpo da página */
 {
     font-family:Arial, Helvetica, sans-serif;
     font-size:large;
-    color: #c04f3b;
+    color: #000000;
     margin: 15px;
     padding:0px;
     text-align:  center; /* o texto do corpo da página centralizado*/
@@ -44,7 +44,7 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     flex-direction: flex; /* Formato do menu em linha */
     width: max-content;  /* Define a largura de acordo com o tamanho do texto */
     justify-content: center; /* Alinha os itens dentro do menu */
-    background-color: rgb(114, 121, 133);
+    background-color: rgb(180, 205, 248);
     padding: 10px;
     margin: 10px;
 
