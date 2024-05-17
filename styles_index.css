@@ -27,7 +27,8 @@ h1 /* formatando o titulo 1 com tamanho, estilo no caso italico, e o tamanho da 
 h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fonte*/
 {
     text-decoration: underline; 
-    font-size: 35px;
+    font-size: 40px;
+    color: #ffffff;
 }
 
 .bloco_menu /*formatação da posição do menu*/
