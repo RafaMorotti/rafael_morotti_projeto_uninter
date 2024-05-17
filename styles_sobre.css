@@ -2,6 +2,7 @@ body /* formatação do corpo da página */
 {
     font-size:large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align:  right;
     background-image: url('sobre_mim.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
