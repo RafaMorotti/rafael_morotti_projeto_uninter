@@ -2,7 +2,7 @@ body /* formatação do corpo da página */
 {
     font-size:large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     background-image: url('trajetoria.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
@@ -15,7 +15,7 @@ h1
 {
     font-size: 70px;
     color: #ffffff;
-    text-shadow:  -1px -1px 0 #000,1px -1px 0 #000,-1px  1px 0 #000,1px  1px 0 #000; /* Contorno preto */
+    text-shadow:  -3px -3px 0 #000,3px -3px 0 #000,-3px  3px 0 #000,3px  3px 0 #000; /* Contorno preto */
 }
 
 h2
