@@ -10,24 +10,22 @@ body /* formatação do corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-
 h1
 {
     font-size: 70px;
-    color: #ffffff;
-    text-shadow:  -3px -3px 0 #000,3px -3px 0 #000,-3px  3px 0 #000,3px  3px 0 #000; /* Contorno preto */
+    color: #000000;
 }
 
 h2
 {
     font-size: 50px;
-    color: #ffffff;   
+    color: #00000;   
 }
 
 h3
 {
     font-size: 30px;
-    color: #ffffff;
+    color: #000000;
 }
 
 
