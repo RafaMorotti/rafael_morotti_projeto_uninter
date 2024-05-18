@@ -3,7 +3,7 @@ body /* formatação do corpo da página */
     font-size: large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    background-image: url('formacao.jpg');
+    background-image: url('formacao2.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
     background-position: center; /* Centraliza a imagem */
