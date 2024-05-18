@@ -1,7 +1,8 @@
 body /* formatação do corpo da página */
 {
-    font-size:large;
+    font-size:45px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
     color: #000000;
     text-align: center;
     background-image: url('trajetoria2.jpg');
@@ -12,7 +13,7 @@ body /* formatação do corpo da página */
 
 h1
 {
-    font-size: 70px;
+    font-size: 60px;
     color: #000000;
 }
 
@@ -22,19 +23,12 @@ h2
     color: #00000;   
 }
 
-h3
-{
-    font-size: 30px;
-    color: #000000;
-}
-
-
 .menu_button 
 {
     display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda*/
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family: comic sans-serif; /* formata o estilo da fonte dentro do botão*/
-    color:  #ffffff; /* cor da fonte */
+    color:  #000000; /* cor da fonte */
     font-size: 30px; /* tamanho da fonte */
 }
 
