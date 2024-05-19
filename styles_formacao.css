@@ -10,39 +10,42 @@ body /* formatação do corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-.titulo_h1 {
+.titulo_h1 
+{
     font-size: 60px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
 
-.titulo_h2 {
+.titulo_h2 
+{
     font-size: 45px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
 
-.titulo_h3 {
+.titulo_h3 
+{
     font-size: 30px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
 
-.menu_button a {
+.menu_button a 
+{
     display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda */
     text-decoration: underline; /* formata o estilo da fonte dentro do botão */
     font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
     font-weight: bold;
-    color: #ffffff; /* cor da fonte */
+    color: #000000; /* cor da fonte */
     font-size: 25px; /* tamanho da fonte */
 }
 
-.menu_button a:hover {
+.menu_button a:hover 
+{
     font-family: 'Times New Roman', Times, serif;
     color: rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
-}mes New Roman', Times, serif;
-    color:rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
 }
