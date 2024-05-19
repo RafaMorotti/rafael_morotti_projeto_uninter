@@ -43,8 +43,3 @@ body
 {
     color: blue; /* Cor do link visitado */
 }
-
-:link 
-{
-    color: rgb(75, 59, 59); /* Cor do link não visitado */
-}
