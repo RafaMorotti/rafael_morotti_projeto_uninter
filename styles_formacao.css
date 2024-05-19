@@ -11,7 +11,7 @@ body /* formatação do corpo da página */
 
 .titulo_h1 
 {
-    font-size: 60px;
+    font-size: 50px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
@@ -19,7 +19,7 @@ body /* formatação do corpo da página */
 
 .titulo_h2 
 {
-    font-size: 45px;
+    font-size: 40px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
