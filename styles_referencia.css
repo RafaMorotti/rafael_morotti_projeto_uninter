@@ -1,0 +1,41 @@
+body
+{
+    font-size: 25px;
+    font-style: italic;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    background-image: url('imagens_link.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
+    background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
+}
+
+links
+{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: bold;
+
+}
+
+tituto_h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: underline;
+    font: 60px;
+}
+
+.menu_button
+{
+    display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda */
+    text-decoration: underline; /* formata o estilo da fonte dentro do botão */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
+    font-weight: bold;
+    color: #000000; /* cor da fonte */
+    font-size: 25px; /* tamanho da fonte */
+}
+
+.menu_button:hover 
+{
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
+    color: rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
+}
