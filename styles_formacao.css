@@ -46,7 +46,7 @@ body /* formatação do corpo da página */
 
 .menu_button a:hover 
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
     color: rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
     font-size: 25px; /* tamanho da fonte */
 }
