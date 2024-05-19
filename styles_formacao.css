@@ -11,18 +11,18 @@ body /* formatação do corpo da página */
 }
 
 .titulo_h1 {
-    font-size: 70px;
+    font-size: 60px;
     color: #000000;
 }
 
 .titulo_h2 {
-    font-size: 50px;
-    color: #ffffff;   
+    font-size: 45px;
+    color: #000000;   
 }
 
 .titulo_h3 {
     font-size: 30px;
-    color: #ffffff;
+    color: #000000;
 }
 
 .menu_button a {
