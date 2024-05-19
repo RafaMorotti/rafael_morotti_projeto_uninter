@@ -2,7 +2,7 @@ body /* formatação do corpo da página */
 {
     font-size: 25px;
     font-style: italic;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     background-image: url('formacao2.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
@@ -10,36 +10,33 @@ body /* formatação do corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-.titulo_h1
-{
+.titulo_h1 {
     font-size: 70px;
     color: #000000;
 }
 
-.titulo_h2
-{
+.titulo_h2 {
     font-size: 50px;
     color: #ffffff;   
 }
 
-.titulo_h3
-{
+.titulo_h3 {
     font-size: 30px;
     color: #ffffff;
 }
 
-.menu_button 
-{
-    display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda*/
-    text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
-    font-family: comic sans-serif; /* formata o estilo da fonte dentro do botão*/
-    font-style: bold;
-    color:  #ffffff; /* cor da fonte */
+.menu_button a {
+    display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda */
+    text-decoration: underline; /* formata o estilo da fonte dentro do botão */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
+    font-weight: bold;
+    color: #ffffff; /* cor da fonte */
     font-size: 25px; /* tamanho da fonte */
 }
 
-.menu_button:hover
-{
+.menu_button a:hover {
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
+}mes New Roman', Times, serif;
     color:rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
 }
