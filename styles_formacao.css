@@ -1,6 +1,7 @@
 body /* formatação do corpo da página */
 {
-    font-size: 30px;
+    font-size: 25px;
+    font-style: italic;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     background-image: url('formacao2.jpg');
@@ -18,15 +19,15 @@ body /* formatação do corpo da página */
 .titulo_h2
 {
     font-size: 50px;
-    color: #000000;   
+    color: #ffffff;   
 }
 
 .titulo_h3
 {
     font-size: 30px;
-    color: #000000
-    font-style: italic;
+    color: #ffffff;
 }
+
 .menu_button 
 {
     display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda*/
