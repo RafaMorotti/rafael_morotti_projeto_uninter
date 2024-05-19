@@ -48,18 +48,8 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     margin: 10px;
 }
 
-.menu a 
-{
-    text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
-    font-family:cursive; /* formata o estilo da fonte dentro do botão*/
-    color: #ffffff;
-    font-size: 18px;
-    padding: 10px 30px; /* formatação do espaçamento interno */
-    margin: 10px; /* Margem entre os botões */
-    border-radius: 5px; /* Formatação dos cantos do botões internos do menu */
-}
 
-.menu a:hover /* formatação da mudança de cor ao passar o mouse */
+.menu:hover /* formatação da mudança de cor ao passar o mouse */
 {
     background-color: #ced4da;
     color: #000000;
