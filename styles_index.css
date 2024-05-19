@@ -39,7 +39,7 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
 .menu 
 {
     display: flex; /* Flexível de acordo com o conteúdo */
-    flex-direction: flex; /* Formato do menu em linha */
+    flex-direction: row; /* Formato do menu em linha */
     width: max-content;  /* Define a largura de acordo com o tamanho do texto */
     justify-content: center; /* Alinha os itens dentro do menu */
     padding: 10px;
