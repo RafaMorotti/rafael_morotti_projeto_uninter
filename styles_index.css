@@ -12,8 +12,6 @@ body /* formatar o corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-
-
 h1 /* formatando o titulo 1 com tamanho, estilo no caso italico, e o tamanho da fonte*/
 {
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -23,12 +21,19 @@ h1 /* formatando o titulo 1 com tamanho, estilo no caso italico, e o tamanho da 
     text-align: center; /* deixa os itens dentro do menu alinhado a esquerda*/
 }
 
-
 h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fonte*/
 {
     text-decoration: underline; 
     font-size: 40px;
     color: #ffffff;
+}
+
+ 
+.bloco_menu /*formatação da posição do menu*/
+{ 
+    display: flex; /* Flexível de acordo com o conteúdo */
+    justify-content: center; /* define a posição do menu na página horizontal*/
+    align-items:center;  /* difine a posição dos itens dentro do menu verticalmente */
 }
 
 .menu 
@@ -58,3 +63,4 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     color: #000000;
     transition: background-color 0.3s ease;
 }
+
