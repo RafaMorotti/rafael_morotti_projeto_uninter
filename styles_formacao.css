@@ -11,7 +11,7 @@ body /* formatação do corpo da página */
 
 .titulo_h1 
 {
-    font-size: 50px;
+    font-size: 40px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
@@ -19,7 +19,7 @@ body /* formatação do corpo da página */
 
 .titulo_h2 
 {
-    font-size: 40px;
+    font-size: 30px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
@@ -27,7 +27,7 @@ body /* formatação do corpo da página */
 
 .titulo_h3 
 {
-    font-size: 30px;
+    font-size: 20px;
     color: #000000;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
