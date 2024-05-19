@@ -7,7 +7,6 @@ body /* formatação do corpo da página */
     background-image: url('lousa.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
-    background-position: center; /* Centraliza a imagem */
 }
 
 .titulo_h1 
