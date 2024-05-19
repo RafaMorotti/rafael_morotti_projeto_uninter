@@ -1,4 +1,5 @@
-body {
+body 
+{
     font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
@@ -8,19 +9,22 @@ body {
     background-repeat: no-repeat; /* faz a imagem de fundo não ser repetida */
 }
 
-.links {
-    font-size: 18px;
+.links 
+{
+    font-size: 22px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
-.titulo_h1 {
+.titulo_h1 
+{
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     font-size: 50px;
 }
 
-.menu_button {
+.menu_button 
+{
     display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda */
     text-decoration: underline; /* formata o estilo da fonte dentro do botão */
     font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
@@ -29,7 +33,8 @@ body {
     font-size: 25px; /* tamanho da fonte */
 }
 
-.menu_button:hover {
+.menu_button:hover 
+{
     font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
     color: rgb(131, 30, 30); /* formatação da fonte do botão ao passar o mouse por cima */
 }
