@@ -42,7 +42,6 @@ h1 /* formataçãod o titulo da página*/
 .menu_button:hover
 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
     color: rgb(131, 30, 30) /* formatação da fonte do botão ao passar o mouse por cima */
 }
 
