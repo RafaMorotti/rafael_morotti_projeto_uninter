@@ -12,16 +12,16 @@ body /* formatar o corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-h1 /* formatando o titulo 1 com tamanho, estilo no caso italico, e o tamanho da fonte*/
+h1 /* formatando o título 1 */
 {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 70px;
     color: #000000;
-    text-align: center; /* deixa os itens dentro do menu alinhado a esquerda*/
+    text-align: center; /* título centralizado*/
 }
 
-h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fonte*/
+h2 /* formatando o título 1 */
 {
     text-decoration: underline; 
     font-size: 40px;
@@ -37,7 +37,7 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     width: 100%; /* Garantir que o contêiner ocupe toda a largura */
 }
 
-.menu 
+.menu /* formatação do menu */
 {
     display: flex; /* Flexível de acordo com o conteúdo */
     flex-direction: row; /* Formato do menu em linha */
@@ -46,7 +46,7 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     margin: 10px;
 }
 
-.menu a 
+.menu a /* formatação dos links do menu */
 {
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family:cursive; /* formata o estilo da fonte dentro do botão*/
