@@ -38,18 +38,19 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     align-items:center; /* difine a posição dos itens dentro do menu verticalmente */
 }
 
-.menu 
+
+.menu a 
 {
-    display: flex; /* Flexível de acordo com o conteúdo */
-    flex-direction: flex; /* Formato do menu em linha */
-    width: max-content;  /* Define a largura de acordo com o tamanho do texto */
-    justify-content: center; /* Alinha os itens dentro do menu */
-    padding: 10px;
-    margin: 10px;
+    text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
+    font-family:cursive; /* formata o estilo da fonte dentro do botão*/
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 30px; /* formatação do espaçamento interno */
+    margin: 10px; /* Margem entre os botões */
+    border-radius: 5px; /* Formatação dos cantos do botões internos do menu */
 }
 
-
-.menu:hover /* formatação da mudança de cor ao passar o mouse */
+.menu a:hover /* formatação da mudança de cor ao passar o mouse */
 {
     background-color: #ced4da;
     color: #000000;
