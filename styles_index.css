@@ -34,13 +34,13 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     display: flex; /* Flexível de acordo com o conteúdo */
     justify-content: center; /* define a posição do menu na página horizontal*/
     align-items:center;  /* difine a posição dos itens dentro do menu verticalmente */
+    width: 100%; /* Garantir que o contêiner ocupe toda a largura */
 }
 
 .menu 
 {
     display: flex; /* Flexível de acordo com o conteúdo */
     flex-direction: row; /* Formato do menu em linha */
-    width: max-content;  /* Define a largura de acordo com o tamanho do texto */
     justify-content: center; /* Alinha os itens dentro do menu */
     padding: 10px;
     margin: 10px;
@@ -50,7 +50,6 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
 {
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family:cursive; /* formata o estilo da fonte dentro do botão*/
-    justify-content: center; /* Alinha os itens dentro do menu */
     color: #ffffff;
     font-size: 18px;
     padding: 10px 30px; /* formatação do espaçamento interno */
