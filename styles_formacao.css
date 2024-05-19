@@ -2,7 +2,7 @@ body /* formatação do corpo da página */
 {
     font-size: 25px;
     font-style: italic;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     background-image: url('formacao2.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
@@ -13,16 +13,22 @@ body /* formatação do corpo da página */
 .titulo_h1 {
     font-size: 60px;
     color: #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
 }
 
 .titulo_h2 {
     font-size: 45px;
-    color: #000000;   
+    color: #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
 }
 
 .titulo_h3 {
     font-size: 30px;
     color: #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
 }
 
 .menu_button a {
