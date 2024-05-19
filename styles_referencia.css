@@ -3,6 +3,7 @@ body
     font-size: 25px;
     font-style: italic;
     font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
     text-align: left;
     background-image: url('imagens_link.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
@@ -14,7 +15,6 @@ links
   font-size: 18px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: bold;
-
 }
 
 tituto_h1
@@ -30,7 +30,7 @@ tituto_h1
     text-decoration: underline; /* formata o estilo da fonte dentro do botão */
     font-family: 'Comic Sans MS', cursive, sans-serif; /* formata o estilo da fonte dentro do botão */
     font-weight: bold;
-    color: #000000; /* cor da fonte */
+    color: #ffffff; /* cor da fonte */
     font-size: 25px; /* tamanho da fonte */
 }
 
