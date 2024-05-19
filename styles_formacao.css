@@ -1,6 +1,6 @@
 body /* formatação do corpo da página */
 {
-    font-size: large;
+    font-size: 80px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     background-image: url('formacao2.jpg');
@@ -26,7 +26,8 @@ h2
     display: inline-flex; /* usado para tirar "uma faixa" que ocupa a tela toda*/
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family: comic sans-serif; /* formata o estilo da fonte dentro do botão*/
-    color:  #000000; /* cor da fonte */
+    font-style: bold;
+    color:  #ffffff; /* cor da fonte */
     font-size: 25px; /* tamanho da fonte */
 }
 
