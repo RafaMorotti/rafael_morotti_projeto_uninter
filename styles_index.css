@@ -31,11 +31,18 @@ h2 /* formatar o titulo 2 om tamanho, estilo no caso italico, e o tamanho da fon
     color: #ffffff;
 }
 
-.bloco_menu /*formatação da posição do menu*/
-{ 
+.menu 
+{
     display: flex; /* Flexível de acordo com o conteúdo */
-    justify-content: center; /* define a posição do menu na página horizontal*/
-    align-items:center; /* difine a posição dos itens dentro do menu verticalmente */
+    flex-direction: flex; /* Formato do menu em linha */
+    width: max-content;  /* Define a largura de acordo com o tamanho do texto */
+    justify-content: center; /* Alinha os itens dentro do menu */
+    padding: 10px;
+    margin: 10px;
+}
+
+.menu a 
+{
     text-decoration:underline; /* formata o estilo da fonte dentro do botão*/
     font-family:cursive; /* formata o estilo da fonte dentro do botão*/
     color: #ffffff;
