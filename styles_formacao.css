@@ -9,19 +9,19 @@ body /* formatação do corpo da página */
     background-position: center; /* Centraliza a imagem */
 }
 
-h1
+.titulo_h1
 {
     font-size: 70px;
     color: #000000;
 }
 
-h2
+.titulo_h2
 {
     font-size: 50px;
     color: #000000;   
 }
 
-h3
+.titulo_h3
 {
     font-size: 30px;
     color: #000000
